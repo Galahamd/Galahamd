@@ -1,16 +1,20 @@
-## Hi there 👋
+👋 Hello! I'm Mauricio
 
-<!--
-**Galahamd/Galahamd** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a passionate full-stack developer specializing in building modern web applications using JavaScript frameworks like Next, Nuxt, React, and NestJS. 🚀
 
-Here are some ideas to get you started:
+🛠️ Tech Stack & Skills
+Frontend: HTML, CSS, JavaScript, Vue.js, Nuxt, React, Tailwind CSS
+Backend: Node.js, Express, NestJS, TypeScript, PostgreSQL
+Tools & Methodologies: Git, Docker, Jira, Scrum, Figma for UI/UX Design
+Other Interests: Exploring scalable solutions and deployment strategies like Canary Releases
+📚 Currently Learning
+Advanced Node.js and Next.js for building dynamic and scalable web apps.
+Improving my understanding of TypeORM and database design principles.
+🌱 Goals
+Build an e-commerce startup for Bolivia, inspired by Amazon and Mercado Libre 🌎
+Master full-stack development and land a role earning $2500/month 💼
+⚽ Fun Fact
+When I'm not coding, you can find me playing soccer as an amateur attacking midfielder or learning about stock trading and investment strategies. 🏆📈
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Connect with me
+LinkedIn : https://www.linkedin.com/in/mauest
