@@ -1,3 +1,5 @@
+![Stack-Web-Developer](https://github.com/user-attachments/assets/60467868-6a58-4094-b00a-cbd95d84d2f8)
+
 👋 Hello! I'm Mauricio
 
 I'm a passionate full-stack developer specializing in building modern web applications using JavaScript frameworks like Next, Nuxt, React, and NestJS. 🚀
@@ -5,7 +7,7 @@ I'm a passionate full-stack developer specializing in building modern web applic
 🛠️ Tech Stack & Skills
 Frontend: HTML, CSS, JavaScript, Vue.js, Nuxt, React, Tailwind CSS
 Backend: Node.js, Express, NestJS, TypeScript, PostgreSQL
-Tools & Methodologies: Git, Docker, Jira, Scrum, Figma for UI/UX Design
+Tools & Methodologies: Git, Docker and Scrum
 Other Interests: Exploring scalable solutions and deployment strategies like Canary Releases
 📚 Currently Learning
 Advanced Node.js and Next.js for building dynamic and scalable web apps.
