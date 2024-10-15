@@ -20,3 +20,4 @@ When I'm not coding, you can find me playing soccer as an amateur attacking midf
 
 📫 Connect with me
 LinkedIn : https://www.linkedin.com/in/mauest
+email: galahamd@hotmail.com
